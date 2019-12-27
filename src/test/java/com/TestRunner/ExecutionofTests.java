@@ -22,9 +22,9 @@ public class ExecutionofTests extends Browser {
                  
                  
                
-          Udemy_Project ref = PageFactory.initElements(driver, Udemy_Project.class);         
+          /*Udemy_Project ref = PageFactory.initElements(driver, Udemy_Project.class);         
                                ref.udemy_login();
-                               System.out.println("Test");
+                               System.out.println("Test");*/
                  
                  
 	}
